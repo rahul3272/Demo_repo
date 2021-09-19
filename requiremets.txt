@@ -2,3 +2,6 @@ This is chat app and some req are
 - emoji
 - typing option
 - color
+
+- dark mode
+- video call
